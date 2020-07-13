@@ -7,5 +7,5 @@ Note: The notebooks that I have created is an amalgamation of the courses that I
 
 The link to the notebook "Time Series Analysis and Forecasting - an introduction" is given below. It wasnot opening on github initially last I checked
 
-https://nbviewer.jupyter.org/github/Kuriankkr/Time-Series-Analysis-and-Forecasting/blob/master/Time%20Series%20Analysis%20and%20Forecasting%20-%20an%20introduction.ipynb
+
 
